@@ -1,9 +1,9 @@
-document.addEventListener('DOMContentLoaded', function(event) {
+document.addEventListener('DOMContentLoaded', function('event') {
     const unDiv = document.getElementById('unDiv');
     const button = document.querySelector('#unDiv button');
 
     
-    unDiv.addEventListener('click', function(event) {
+    unDiv.addEventListener('click', function('event') {
         alert('Hola! Soy el div');
     });
 
